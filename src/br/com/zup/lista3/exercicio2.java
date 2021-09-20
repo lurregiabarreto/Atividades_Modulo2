@@ -22,7 +22,7 @@ public class exercicio2 {
         double valorTotal = 0; // O resultado em R$
         double valorDoDesconto = 0; // valor do desconto do valor total
 
-        System.out.println("Seja bem vindo ao posto André ");
+        System.out.println("Seja bem vindo ao posto Lurrégia ");
         System.out.println("Por favor, digite G para gazolina e A para Alcool");
         String tipoDeCombustivel = leitor.nextLine();
         System.out.println("Digite o valor em L do quanto voccê quer abastecer: ");

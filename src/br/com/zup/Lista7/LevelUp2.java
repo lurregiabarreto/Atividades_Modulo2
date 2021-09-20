@@ -9,7 +9,7 @@ public class LevelUp2 {
         Scanner leitor = new Scanner(System.in);
         Map<String, String> alunos = new HashMap<String, String>();
         boolean chave = true;
-        System.out.println("---- Seja bem vindo ao André Classroom ----");
+        System.out.println("---- Seja bem vindo  ----");
         int opcao = 0;
 
         while (chave == true) {
